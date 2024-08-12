@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.exe
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.dll
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.dll
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\refint\TimPhanTuLonNhatTrongMangHaiChieu.dll
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\ref\TimPhanTuLonNhatTrongMangHaiChieu.dll
